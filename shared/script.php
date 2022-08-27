@@ -1,0 +1,15 @@
+<script src="/hima/assets/vendor/apexcharts/apexcharts.min.js"></script>
+<script src="/hima/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/hima/assets/vendor/chart.js/chart.min.js"></script>
+<script src="/hima/assets/vendor/echarts/echarts.min.js"></script>
+<script src="/hima/assets/vendor/quill/quill.min.js"></script>
+<script src="/hima/assets/vendor/simple-datatables/simple-datatables.js"></script>
+<script src="/hima/assets/vendor/tinymce/tinymce.min.js"></script>
+<script src="/hima/assets/vendor/php-email-form/validate.js"></script>
+
+<!-- Template Main JS File -->
+<script src="/hima/assets/js/main.js"></script>
+
+</body>
+
+</html>
